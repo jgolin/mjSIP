@@ -41,17 +41,17 @@
 	</licenses>
 
 	<scm>
-		<connection>scm:git:https://github.com/haumacher/mjSIP.git</connection>
-		<developerConnection>scm:git:https://github.com/haumacher/mjSIP.git</developerConnection>
-		<url>https://github.com/haumacher/mjSIP</url>
+		<connection>scm:git:hhttps://github.com/jgolin/mjSIP.git</connection>
+		<developerConnection>scm:git:https://github.com/jgolin/mjSIP.git</developerConnection>
+		<url>https://github.com/jgolin/mjSIP</url>
 		<tag>1.9.0</tag>
 	</scm>
 
 	<distributionManagement>
 		<repository>
 			<id>github</id>
-			<name>GitHub haumacher/mjSIP Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/haumacher/mjSIP</url>
+			<name>GitHub mjSIP Apache Maven Packages</name>
+			<url>https://github.com/jgolin/mjSIP</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
